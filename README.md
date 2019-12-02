@@ -1,7 +1,5 @@
 # Mohamed-Mulla-React-Developer
 
-This repo is random collection of some files, containing scripts I have put together on React/Gatsby/GraphQL & React Redux projects, along with my Docker compose setup for Wordpress Rest Api Localhost setup
-
 Below is the titles of folders included in this repo, and a descripton 
 
 ## 1.Docker:
